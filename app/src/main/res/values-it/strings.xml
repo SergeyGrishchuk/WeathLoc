@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tempo metereologico</string>
+    <string name="your_location">Posizione</string>
+    <string name="button">Ricaricare</string>
+</resources>
